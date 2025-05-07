@@ -36,4 +36,4 @@ Van de Graaff Generator: Electrostatic, no transistors, pulsed discharges via na
                    [Target Sample]
 ```
 
-![Full Description](Detailed_description.md)
+[Full Description](Detailed_description.md)
