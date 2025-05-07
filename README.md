@@ -37,3 +37,8 @@ Van de Graaff Generator: Electrostatic, no transistors, pulsed discharges via na
 ```
 
 [Full Description](Detailed_description.md)
+
+
+## Bootnote
+
+Created with Grok using [These Papers](https://github.com/open-scientific/Proceedings_of_the_28th_Russian_Conference_on_Cold_Nuclear_Transmutation_and_Ball_Lightning) 
