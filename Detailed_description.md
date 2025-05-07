@@ -69,6 +69,6 @@ Here’s a list of terms related to exotic vacuum objects found in the document 
 
 # Artifact: Experiment Summary
 
-![Low-Cost EVO Experiment Summary](README.md)
+[Low-Cost EVO Experiment Summary](README.md)
 
 This design leverages insights from conference papers (e.g., spark discharges in air-water environments by Baranov et al.) while ensuring simplicity and avoiding electronic vulnerabilities. It’s a practical starting point for exploring EVOs, adaptable for further refinement based on observations.
